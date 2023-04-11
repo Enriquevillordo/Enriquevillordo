@@ -12,7 +12,7 @@
 - ⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 Tailwind CSS
 - 🥇 React 𒑰 Vue 𒑰 Material UI 𒑰 Next.js 𒑰 Nuxt.js 𒑰 Redux 𒑰 Vuex 𒑰 Vuetify 𒑰 Figma 𒑰 Adobe XD 𒑰 Adobe Photoshop
 - 🥇 Svelte, SvelteKit
-- 🥇 WebGL, Thre.js, Babylon.js
+- 🥇 WebGL, Three.js, Babylon.js
 - 🤗 React Native, Flutter app
 - 🎒 NodeJS 𒑰 Express 𒑰 python 𒑰 Django 𒑰 RESTful API
 - 💪 Ruby On Rails 𒑰 PostgreSQL 𒑰 RSpec
