@@ -3,7 +3,7 @@
 <p>
   <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Full-Stack%20Web%20Developer;10+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
-&nbsp;&nbsp;A highly skilled full stack developer seeking a new opportunity in a senior position. With 7 years of extensive experience, I have a proven track record for developing, testing, and deploying applications for both frontend and backend. I am confident that my technical expertise, combined with my strong problem-solving skills, makes me stand out in IT field.
+&nbsp;&nbsp;A highly skilled full stack developer seeking a new opportunity in a senior position. With 10 years of extensive experience, I have a proven track record for developing, testing, and deploying applications for both frontend and backend. I am confident that my technical expertise, combined with my strong problem-solving skills, makes me stand out in IT field.
 
 </p>
 
@@ -11,6 +11,8 @@
 
 - ⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 Tailwind CSS
 - 🥇 React 𒑰 Vue 𒑰 Material UI 𒑰 Next.js 𒑰 Nuxt.js 𒑰 Redux 𒑰 Vuex 𒑰 Vuetify 𒑰 Figma 𒑰 Adobe XD 𒑰 Adobe Photoshop
+- 🥇 Svelte, SvelteKit
+- 🥇 WebGL, Thre.js, Babylon.js
 - 🤗 React Native, Flutter app
 - 🎒 NodeJS 𒑰 Express 𒑰 python 𒑰 Django 𒑰 RESTful API
 - 💪 Ruby On Rails 𒑰 PostgreSQL 𒑰 RSpec
@@ -23,9 +25,6 @@
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=highshot-rk&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations" alt="Followers, Commits, Stars, Repositories, PullRequest">
-</p>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=highshot-rk&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=highshot-rk&theme=dark&count_private=true&theme=radical">
